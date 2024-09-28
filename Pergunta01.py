@@ -20,4 +20,3 @@ while (True):
         break
     else:
         a, b = b, a + b
-    
